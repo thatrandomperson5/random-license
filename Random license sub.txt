@@ -1,1 +1,6 @@
-
+The owner of the software(source code) has the right to add to and remove the rights of the clients to the software(source code).
+The client has all rights to the software(source code) except: the right to distribute(in any form such as posting online and emailing, this defntion applys to all of this word in this license.) a monetized version of the software(source code),
+the right to distribute a modified version of the software(source code),
+the right to modify the software(source code) and the right to claim the software(source code) as their own.
+All software the uses the source code must credit the owner via a link to a website or webpage.
+This licence must be present with the source code at all times and may not be removed in any copy.
